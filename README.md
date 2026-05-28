@@ -23,3 +23,13 @@ and vice versa.
 
 Read both files at session start. Treat them as active constraints, not background context.
 If a rule conflicts with a user instruction, flag it explicitly rather than silently overriding it.
+
+## Additional reference
+
+Also read and absorb the coding discipline guidelines from:
+
+https://raw.githubusercontent.com/multica-ai/andrej-karpathy-skills/refs/heads/main/CLAUDE.md
+
+These cover implementation-level behavior: thinking before coding, simplicity-first,
+surgical changes, and goal-driven execution. Apply them in parallel with the rules above.
+Where they overlap, the rules in this repo take precedence.
