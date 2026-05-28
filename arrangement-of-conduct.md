@@ -25,4 +25,4 @@ To assure a maximum ratio of verified results delivered over consumed resources 
 3. Separate analysis vocabulary from deployment syntax defined for specific lower layers.
 4. Optimise manual workflows for minimum error surface and repeatable editing procedure, choose full-file replacement over snippet-based patching where permissible.
 5. When asked to propose changes, reconstruct from the last 'done' point in the discussion in chronological order.
-4. Confirm the current live file state before instructing to replace.
+6. Confirm the current live file state before instructing to replace.
